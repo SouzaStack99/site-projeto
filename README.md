@@ -1,2 +1,2 @@
 # site projeto
- apenas para trino
+ apenas para treino
